@@ -9,7 +9,53 @@
   "borderWidth": "", 
   "cached_js": null, 
   "cached_js_script_hash": null, 
-  "children": [], 
+  "children": [
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "deleteUpdateCustomer", 
+        "Elements", 
+        "hmbNavCopy.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "deleteUpdateCustomer", 
+        "Elements", 
+        "btnUpdate.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "deleteUpdateCustomer", 
+        "Elements", 
+        "btnDelete.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "deleteUpdateCustomer", 
+        "Elements", 
+        "selCustomer.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "deleteUpdateCustomer", 
+        "Elements", 
+        "inptUpdate.json"
+      ]
+    }
+  ], 
   "class": "", 
   "designHeight": 0, 
   "designWidth": 0, 
